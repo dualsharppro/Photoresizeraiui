@@ -12,7 +12,7 @@ export function EmptyGallery({ onUploadClick }: EmptyGalleryProps) {
         {/* Illustration */}
         <div className="mb-8 flex justify-center">
           <img 
-            src={emptyStateImage} 
+            src="src/assets/8eed0b3dff34e21f62946a71bd3bd07e699319ee.png" 
             alt="No photos" 
             className="w-48 h-48 object-contain dark:opacity-90"
           />
